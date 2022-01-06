@@ -1,1 +1,1 @@
-# ehs-working-handbook
+# EHS-Working-Handbook
